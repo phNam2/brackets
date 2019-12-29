@@ -143,8 +143,8 @@ define({
     "EXT_DELETED_MESSAGE"               : "<span class='dialog-filename'>{0}</span> đã bị xóa ở ổ đĩa bên ngoài {APP_NAME}, nhưng {APP_NAME} cũng có những thay đổi chưa được lưu.<br /><br />Bạn có muốn lưu thay đổi này?",
     
     // Window unload warning messages
-    "WINDOW_UNLOAD_WARNING"                      : "Are you sure you want to navigate to a different URL and leave Brackets?",
-    "WINDOW_UNLOAD_WARNING_WITH_UNSAVED_CHANGES" : "You have unsaved changes! Are you sure you want to navigate to a different URL and leave Brackets?",
+    "WINDOW_UNLOAD_WARNING"                      : "Bạn có chắc là muốn đến URL khác và thoát khỏi Brackets?",
+    "WINDOW_UNLOAD_WARNING_WITH_UNSAVED_CHANGES" : "Bạn chưa lưu thay đổi! Bạn có chắc là muốn đến URL khác và thoát khỏi Brackets?",
 
     // Generic dialog/button labels
     "DONE"                              : "Done",
