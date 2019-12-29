@@ -187,9 +187,9 @@ define({
     "NO_UPDATE_MESSAGE"                 : "Bạn đang chạy {APP_NAME} bản mới nhất.",
 
     // Find and Replace
-    "FIND_REPLACE_TITLE_LABEL"          : "Replace",
-    "FIND_REPLACE_TITLE_WITH"           : "with",
-    "FIND_TITLE_LABEL"                  : "Found",
+    "FIND_REPLACE_TITLE_LABEL"          : "Thay thế",
+    "FIND_REPLACE_TITLE_WITH"           : "bằng",
+    "FIND_TITLE_LABEL"                  : "Tìm kiếm",
     "FIND_TITLE_SUMMARY"                : "&mdash; {0} {1} {2} in {3}",
 
     // Find in Files
