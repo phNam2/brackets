@@ -64,6 +64,7 @@ define(function (require, exports, module) {
         "sv": true,
         "tr": true,
         "uk": true,
+        "vi":true,
         "zh-cn": true,
         "zh-tw": true
     };
