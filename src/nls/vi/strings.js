@@ -90,9 +90,9 @@ define({
     "ERROR_NONEXISTENT_COMMANDS"        : "Bạn đang đặt phím tắt cho mệnh lệnh không tồn tại: {0}",
 
     // Application preferences corrupt error strings
-    "ERROR_PREFS_CORRUPT_TITLE"         : "Error Reading Preferences",
-    "ERROR_PREFS_CORRUPT"               : "Your preferences file is not valid JSON. The file will be opened so that you can correct the format. You will need to restart {APP_NAME} for the changes to take effect.",
-    "ERROR_PROJ_PREFS_CORRUPT"          : "Your project preferences file is not valid JSON. The file will be opened so that you can correct the format. You will need to reload the project for the changes to take effect.",
+    "ERROR_PREFS_CORRUPT_TITLE"         : "Lỗi đọc Cài đặt",
+    "ERROR_PREFS_CORRUPT"               : "Tập tin Cài đặt không phải là tập JSON hợp lệ. Tập tin này sẽ được mở để bạn sửa theo dạng đúng. Bạn sẽ phải khởi động lại {APP_NAME} để lưu các thay đổi.",
+    "ERROR_PROJ_PREFS_CORRUPT"          : "Tập tin Cài đặt của dự án không phải là tập JSON hợp lệ. Tập tin này sẽ được mở để bạn sửa theo dạng đúng. Bạn sẽ phải khởi động lại dự án để lưu các thay đổi.",
 
     // Application error strings
     "ERROR_IN_BROWSER_TITLE"            : "Oops! {APP_NAME} Doesn't Run in Browsers Yet.",
