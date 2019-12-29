@@ -50,6 +50,7 @@ define(function (require, exports, module) {
         "pt-pt": true,
         "ru": true,
         "sv": true,
+        "vi": true,
         "zh-cn": true,
         "zh-tw": true,
         "tr": true,
