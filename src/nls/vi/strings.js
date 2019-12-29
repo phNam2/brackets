@@ -79,15 +79,15 @@ define({
     "ERROR_MIXED_DRAGDROP"              : "Không thể mở Thư mục này cùng lúc với các tập tin khác.",
 
     // User key map error strings
-    "ERROR_KEYMAP_TITLE"                : "Error Reading User Key Map",
-    "ERROR_KEYMAP_CORRUPT"              : "Your key map file is not valid JSON. The file will be opened so that you can correct the format.",
-    "ERROR_LOADING_KEYMAP"              : "Your key map file is not a valid UTF-8 encoded text file and cannot be loaded",
-    "ERROR_RESTRICTED_COMMANDS"         : "You cannot reassign shortcuts to these commands: {0}",
-    "ERROR_RESTRICTED_SHORTCUTS"        : "You cannot reassign these shortcuts: {0}",
-    "ERROR_MULTIPLE_SHORTCUTS"          : "You are reassigning multiple shortcuts to these commands: {0}",
-    "ERROR_DUPLICATE_SHORTCUTS"         : "You have multiple bindings of these shortcuts: {0}",
-    "ERROR_INVALID_SHORTCUTS"           : "These shortcuts are invalid: {0}",
-    "ERROR_NONEXISTENT_COMMANDS"        : "You are assigning shortcuts to nonexistent commands: {0}",
+    "ERROR_KEYMAP_TITLE"                : "Lỗi đọc phím tắt",
+    "ERROR_KEYMAP_CORRUPT"              : "Tập phím không phải là tập JSON hợp lệ. Tập tin này sẽ được mở để bạn sửa theo dạng đúng.",
+    "ERROR_LOADING_KEYMAP"              : "Tập phím của bạn không theo mẫu UTF-8 nên không thể tải",
+    "ERROR_RESTRICTED_COMMANDS"         : "Không thể dùng phím tắt cho những mệnh lệnh này: {0}",
+    "ERROR_RESTRICTED_SHORTCUTS"        : "Không thể thay đổi những phím tắt này: {0}",
+    "ERROR_MULTIPLE_SHORTCUTS"          : "Bạn đang đặt nhiều phím tắt cho mệnh lệnh này: {0}",
+    "ERROR_DUPLICATE_SHORTCUTS"         : "Các mệnh lệnh này đang có chung phím tắt: {0}",
+    "ERROR_INVALID_SHORTCUTS"           : "Phím tắt không hợp lệ: {0}",
+    "ERROR_NONEXISTENT_COMMANDS"        : "Bạn đang đặt phím tắt cho mệnh lệnh không tồn tại: {0}",
 
     // Application preferences corrupt error strings
     "ERROR_PREFS_CORRUPT_TITLE"         : "Error Reading Preferences",
