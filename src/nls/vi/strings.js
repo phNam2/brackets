@@ -125,10 +125,10 @@ define({
     "LIVE_DEV_STATUS_TIP_OUT_OF_SYNC"   : "Giao diện Trực tiếp (lưu tập tin để khởi động lại)",
     "LIVE_DEV_STATUS_TIP_SYNC_ERROR"    : "Giao diện Trực tiếp (không cập nhật do lỗi cú pháp)",
 
-    "LIVE_DEV_DETACHED_REPLACED_WITH_DEVTOOLS" : "Giao diện Trực tiếp bị hủy because the browser's developer tools were opened",
-    "LIVE_DEV_DETACHED_TARGET_CLOSED"          : "Giao diện Trực tiếp bị hủy because the page was closed in the browser",
-    "LIVE_DEV_NAVIGATED_AWAY"                  : "Giao diện Trực tiếp bị hủy because the browser navigated to a page that is not part of the current project",
-    "LIVE_DEV_CLOSED_UNKNOWN_REASON"           : "Giao diện Trực tiếp bị hủy for an unknown reason ({0})",
+    "LIVE_DEV_DETACHED_REPLACED_WITH_DEVTOOLS" : "Giao diện Trực tiếp bị hủy bởi công cụ lập trình của trình duyệt đang mở",
+    "LIVE_DEV_DETACHED_TARGET_CLOSED"          : "Giao diện Trực tiếp bị hủy because trang giao diện (Tab) bị đóng",
+    "LIVE_DEV_NAVIGATED_AWAY"                  : "Giao diện Trực tiếp bị hủy bởi trình duyệt đang mở trang khác ngoài Dự án",
+    "LIVE_DEV_CLOSED_UNKNOWN_REASON"           : "Giao diện Trực tiếp bị hủy không rõ lý do ({0})",
 
     "SAVE_CLOSE_TITLE"                  : "Save Changes",
     "SAVE_CLOSE_MESSAGE"                : "Do you want to save the changes you made in the document <span class='dialog-filename'>{0}</span>?",
