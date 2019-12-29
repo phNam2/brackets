@@ -80,7 +80,7 @@ define({
 
     // User key map error strings
     "ERROR_KEYMAP_TITLE"                : "Lỗi đọc phím tắt",
-    "ERROR_KEYMAP_CORRUPT"              : "Tập phím không phải là tập JSON hợp lệ. Tập tin này sẽ được mở để bạn sửa theo dạng đúng.",
+    "ERROR_KEYMAP_CORRUPT"              : "Tập phím không phải là tập tin JSON hợp lệ. Tập tin này sẽ được mở để bạn sửa theo dạng đúng.",
     "ERROR_LOADING_KEYMAP"              : "Tập phím của bạn không theo mẫu UTF-8 nên không thể tải",
     "ERROR_RESTRICTED_COMMANDS"         : "Không thể dùng phím tắt cho những mệnh lệnh này: {0}",
     "ERROR_RESTRICTED_SHORTCUTS"        : "Không thể thay đổi những phím tắt này: {0}",
@@ -91,12 +91,12 @@ define({
 
     // Application preferences corrupt error strings
     "ERROR_PREFS_CORRUPT_TITLE"         : "Lỗi đọc Cài đặt",
-    "ERROR_PREFS_CORRUPT"               : "Tập tin Cài đặt không phải là tập JSON hợp lệ. Tập tin này sẽ được mở để bạn sửa theo dạng đúng. Bạn sẽ phải khởi động lại {APP_NAME} để lưu các thay đổi.",
+    "ERROR_PREFS_CORRUPT"               : "Tập tin Cài đặt không phải là tập tin JSON hợp lệ. Tập tin này sẽ được mở để bạn sửa theo dạng đúng. Bạn sẽ phải khởi động lại {APP_NAME} để lưu các thay đổi.",
     "ERROR_PROJ_PREFS_CORRUPT"          : "Tập tin Cài đặt của dự án không phải là tập JSON hợp lệ. Tập tin này sẽ được mở để bạn sửa theo dạng đúng. Bạn sẽ phải khởi động lại dự án để lưu các thay đổi.",
 
     // Application error strings
-    "ERROR_IN_BROWSER_TITLE"            : "Oops! {APP_NAME} Doesn't Run in Browsers Yet.",
-    "ERROR_IN_BROWSER"                  : "{APP_NAME} is built in HTML, but right now it runs as a desktop app so you can use it to edit local files. Please use the application shell in the <b>github.com/adobe/brackets-shell</b> repo to run {APP_NAME}.",
+    "ERROR_IN_BROWSER_TITLE"            : "Xin lỗi! {APP_NAME} này vẫn chưa chạy được trên trình duyệt web.",
+    "ERROR_IN_BROWSER"                  : "{APP_NAME} được viết bằng HTML, nhưng hiện tại vẫn là ứng dụng desktop để bạn có thể chỉnh sửa tập tin ở cục bộ. Xin hãy chạy {APP_NAME} bằng vỏ ứng dụng ở <b>github.com/adobe/brackets-shell</b>.",
 
     // ProjectManager max files error string
     "ERROR_MAX_FILES_TITLE"             : "Error Indexing Files",
