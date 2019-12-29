@@ -194,23 +194,23 @@ define({
 
     // Find in Files
     "FIND_NUM_FILES"                    : "{0} {1}",
-    "FIND_IN_FILES_SCOPED"              : "in <span class='dialog-filename'>{0}</span>",
-    "FIND_IN_FILES_NO_SCOPE"            : "in project",
-    "FIND_IN_FILES_ZERO_FILES"          : "Filter excludes all files {0}",
-    "FIND_IN_FILES_FILE"                : "file",
-    "FIND_IN_FILES_FILES"               : "files",
-    "FIND_IN_FILES_MATCH"               : "match",
-    "FIND_IN_FILES_MATCHES"             : "matches",
-    "FIND_IN_FILES_MORE_THAN"           : "Over ",
+    "FIND_IN_FILES_SCOPED"              : "ở <span class='dialog-filename'>{0}</span>",
+    "FIND_IN_FILES_NO_SCOPE"            : "trong dự án",
+    "FIND_IN_FILES_ZERO_FILES"          : "Không bao gồm các tập tin sau {0}",
+    "FIND_IN_FILES_FILE"                : "tập tin",
+    "FIND_IN_FILES_FILES"               : "các tập tin",
+    "FIND_IN_FILES_MATCH"               : "trùng khớp",
+    "FIND_IN_FILES_MATCHES"             : "trùng khớp",
+    "FIND_IN_FILES_MORE_THAN"           : "Nhiều hơn ",
     "FIND_IN_FILES_PAGING"              : "{0}&mdash;{1}",
     "FIND_IN_FILES_FILE_PATH"           : "<span class='dialog-filename'>{0}</span> {2} <span class='dialog-path'>{1}</span>", // We should use normal dashes on Windows instead of em dash eventually
-    "FIND_IN_FILES_EXPAND_COLLAPSE"     : "Ctrl/Cmd click to expand/collapse all",
-    "FIND_IN_FILES_INDEXING"            : "Indexing for Instant Search\u2026",
-    "REPLACE_IN_FILES_ERRORS_TITLE"     : "Replace Errors",
-    "REPLACE_IN_FILES_ERRORS"           : "The following files weren't modified because they changed after the search or couldn't be written.",
+    "FIND_IN_FILES_EXPAND_COLLAPSE"     : "Bấm Ctrl/Cmd để Mở rộng/Thu gọn tất cả",
+    "FIND_IN_FILES_INDEXING"            : "Tìm qua số dòng\u2026",
+    "REPLACE_IN_FILES_ERRORS_TITLE"     : "Lỗi Thay thế",
+    "REPLACE_IN_FILES_ERRORS"           : "Các tập tin này không thể thay đổi vì chúng đã bị thay đổi sau cuộc tìm kiếm hoặc chỉ là không thể viết được.",
 
-    "ERROR_FETCHING_UPDATE_INFO_TITLE"  : "Error Getting Update Info",
-    "ERROR_FETCHING_UPDATE_INFO_MSG"    : "There was a problem getting the latest update information from the server. Please make sure you are connected to the Internet and try again.",
+    "ERROR_FETCHING_UPDATE_INFO_TITLE"  : "Lỗi sửa đổi nội dung",
+    "ERROR_FETCHING_UPDATE_INFO_MSG"    : "Có vấn đề khi kết nối thông tin với máy chủ. Xin hãy bảo đảm rằng kết nối Internet của bạn ổn định.",
 
     // File exclusion filters
     "NEW_FILE_FILTER"                   : "New Exclusion Set\u2026",
