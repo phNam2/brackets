@@ -147,16 +147,16 @@ define({
     "WINDOW_UNLOAD_WARNING_WITH_UNSAVED_CHANGES" : "Bạn chưa lưu thay đổi! Bạn có chắc là muốn đến URL khác và thoát khỏi Brackets?",
 
     // Generic dialog/button labels
-    "DONE"                              : "Done",
+    "DONE"                              : "Xong",
     "OK"                                : "OK",
-    "CANCEL"                            : "Cancel",
-    "DONT_SAVE"                         : "Don't Save",
-    "SAVE"                              : "Save",
-    "SAVE_AS"                           : "Save As\u2026",
-    "SAVE_AND_OVERWRITE"                : "Overwrite",
-    "DELETE"                            : "Delete",
-    "BUTTON_YES"                        : "Yes",
-    "BUTTON_NO"                         : "No",
+    "CANCEL"                            : "Hủy",
+    "DONT_SAVE"                         : "Không lưu",
+    "SAVE"                              : "Lưu",
+    "SAVE_AS"                           : "Lưu tên\u2026",
+    "SAVE_AND_OVERWRITE"                : "Viết đè",
+    "DELETE"                            : "Xóa",
+    "BUTTON_YES"                        : "Có",
+    "BUTTON_NO"                         : "Không",
 
     // Find, Replace, Find in Files
     "FIND_MATCH_INDEX"                  : "{0} of {1}",
