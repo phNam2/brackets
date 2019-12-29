@@ -103,9 +103,9 @@ define({
     "ERROR_MAX_FILES"                   : "Dự án này đã có hơn 30,000 tập tin. Nhiều chức năng có thể bị vô hiệu hóa hoặc hoạt động như Dự án trống. <a href='https://github.com/adobe/brackets/wiki/Large-Projects'>Đọc thêm ở đây để biết thêm về các Dự án lớn</a>.",
 
     // Live Preview error strings
-    "ERROR_LAUNCHING_BROWSER_TITLE"     : "Error Launching Browser",
-    "ERROR_CANT_FIND_CHROME"            : "The Google Chrome browser could not be found. Please make sure it is installed.",
-    "ERROR_LAUNCHING_BROWSER"           : "An error occurred when launching the browser. (error {0})",
+    "ERROR_LAUNCHING_BROWSER_TITLE"     : "Lỗi mở trình duyệt web",
+    "ERROR_CANT_FIND_CHROME"            : "Không tìm thấy trình duyệt Google Chrome. Xin hãy cài đặt.",
+    "ERROR_LAUNCHING_BROWSER"           : "Có lỗi khi mở trình duyệt web. (error {0})",
 
     "LIVE_DEVELOPMENT_ERROR_TITLE"      : "Live Preview Error",
     "LIVE_DEVELOPMENT_RELAUNCH_TITLE"   : "Connecting to Browser",
