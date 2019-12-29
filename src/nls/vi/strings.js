@@ -100,23 +100,23 @@ define({
 
     // ProjectManager max files error string
     "ERROR_MAX_FILES_TITLE"             : "Lỗi quá tải",
-    "ERROR_MAX_FILES"                   : "Dự án này đã có hơn 30,000 tập tin. Nhiều chức năng có thể bị vô hiệu hóa hoặc hoạt động như Dự án trống. <a href='https://github.com/adobe/brackets/wiki/Large-Projects'>Đọc thêm ở đây để biết thêm về các Dự án lớn</a>.",
+    "ERROR_MAX_FILES"                   : "Dự án này đã có hơn 30,000 tập tin. Nhiều chức năng có thể bị vô hiệu hóa hoặc hoạt động như Dự án trống. <a href='https://github.com/adobe/brackets/wiki/Large-Projects'>Đọc thêm ở đây để biết thêm về cách xử lý Dự án lớn</a>.",
 
     // Live Preview error strings
-    "ERROR_LAUNCHING_BROWSER_TITLE"     : "Lỗi mở trình duyệt web",
+    "ERROR_LAUNCHING_BROWSER_TITLE"     : "Lỗi mở trình duyệt Web",
     "ERROR_CANT_FIND_CHROME"            : "Không tìm thấy trình duyệt Google Chrome. Xin hãy cài đặt.",
-    "ERROR_LAUNCHING_BROWSER"           : "Có lỗi khi mở trình duyệt web. (error {0})",
+    "ERROR_LAUNCHING_BROWSER"           : "Có lỗi khi mở trình duyệt Web. (error {0})",
 
-    "LIVE_DEVELOPMENT_ERROR_TITLE"      : "Live Preview Error",
-    "LIVE_DEVELOPMENT_RELAUNCH_TITLE"   : "Connecting to Browser",
-    "LIVE_DEVELOPMENT_ERROR_MESSAGE"    : "In order for Live Preview to connect, Chrome needs to be relaunched with remote debugging enabled.<br /><br />Would you like to relaunch Chrome and enable remote debugging?<br /><br />",
-    "LIVE_DEV_LOADING_ERROR_MESSAGE"    : "Unable to load Live Preview page.",
-    "LIVE_DEV_NEED_HTML_MESSAGE"        : "Open an HTML file or make sure there is an index.html file in your project in order to launch live preview.",
-    "LIVE_DEV_NEED_BASEURL_MESSAGE"     : "To launch live preview with a server-side file, you need to specify a Base URL for this project.",
-    "LIVE_DEV_SERVER_NOT_READY_MESSAGE" : "Error starting up the HTTP server for live preview files. Please try again.",
-    "LIVE_DEVELOPMENT_INFO_TITLE"       : "Welcome to Live Preview!",
-    "LIVE_DEVELOPMENT_INFO_MESSAGE"     : "Live Preview connects {APP_NAME} to your browser. It launches a preview of your HTML file in the browser, then updates the preview instantly as you edit your code.<br /><br />In this early version of {APP_NAME}, Live Preview only works with <strong>Google Chrome</strong> and updates live as you edit <strong>CSS or HTML files</strong>. Changes to JavaScript files are automatically reloaded when you save.<br /><br />(You'll only see this message once.)",
-    "LIVE_DEVELOPMENT_TROUBLESHOOTING"  : "For more information, see <a href='{0}' title='{0}'>Troubleshooting Live Preview connection errors</a>.",
+    "LIVE_DEVELOPMENT_ERROR_TITLE"      : "Lỗi Giao diện Trực tiếp",
+    "LIVE_DEVELOPMENT_RELAUNCH_TITLE"   : "Mở trình duyệt Web",
+    "LIVE_DEVELOPMENT_ERROR_MESSAGE"    : "Chrome cần được khởi động lại với hệ thống debug để kết nối với Giao diện Trực tiếp.<br /><br />Xin hãy bật debug và khởi động lại Chrome.<br /><br />",
+    "LIVE_DEV_LOADING_ERROR_MESSAGE"    : "Không tải được trang Bắt Đầu.",
+    "LIVE_DEV_NEED_HTML_MESSAGE"        : "Hãy mở tập tin HTML hoặc tạo tập tin index.html trong Dự án để làm trang đầu cho Giao diện Trực Tiếp.",
+    "LIVE_DEV_NEED_BASEURL_MESSAGE"     : "Nếu muốn mở Giao diện Trực tiếp với Tập tin phía máy chủ (server-side, PHP), cần phải chỉ nguồn URL cho dự án",
+    "LIVE_DEV_SERVER_NOT_READY_MESSAGE" : "Có lỗi khi mở nguồn HTTP phía máy chủ cho Giao diện Trực tiếp. Xin hãy thử lại.",
+    "LIVE_DEVELOPMENT_INFO_TITLE"       : "Chào mừng đến với Giao diện Trực tiếp!",
+    "LIVE_DEVELOPMENT_INFO_MESSAGE"     : "Giao diện Trực tiếp sẽ kết nối {APP_NAME} đến trình duyệt web của bạn. Giao diện của tập tin HTML sẽ hiện thị trên Chrome, và sẽ tự chỉnh sửa tức thì khi bạn thay đổi tập tin HTML.<br /><br />In this early version of {APP_NAME}, Live Preview only works with <strong>Google Chrome</strong> and updates live as you edit <strong>CSS or HTML files</strong>. Changes to JavaScript files are automatically reloaded when you save.<br /><br />(You'll only see this message once.)",
+    "LIVE_DEVELOPMENT_TROUBLESHOOTING"  : "Truy cập <a href='{0}' title='{0}'>Troubleshooting Live Preview connection errors</a>. để biết thêm thông tin",
 
     "LIVE_DEV_STATUS_TIP_NOT_CONNECTED" : "Live Preview",
     "LIVE_DEV_STATUS_TIP_PROGRESS1"     : "Live Preview: Connecting\u2026",
