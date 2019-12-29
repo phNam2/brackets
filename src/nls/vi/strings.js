@@ -118,12 +118,12 @@ define({
     "LIVE_DEVELOPMENT_INFO_MESSAGE"     : "Giao diện Trực tiếp sẽ kết nối {APP_NAME} đến trình duyệt web của bạn. Giao diện của tập tin HTML sẽ hiện thị trên Chrome, và sẽ tự chỉnh sửa tức thì khi bạn thay đổi tập tin HTML.<br /><br />In this early version of {APP_NAME}, Live Preview only works with <strong>Google Chrome</strong> and updates live as you edit <strong>CSS or HTML files</strong>. Changes to JavaScript files are automatically reloaded when you save.<br /><br />(You'll only see this message once.)",
     "LIVE_DEVELOPMENT_TROUBLESHOOTING"  : "Truy cập <a href='{0}' title='{0}'>Troubleshooting Live Preview connection errors</a>. để biết thêm thông tin",
 
-    "LIVE_DEV_STATUS_TIP_NOT_CONNECTED" : "Live Preview",
-    "LIVE_DEV_STATUS_TIP_PROGRESS1"     : "Live Preview: Connecting\u2026",
-    "LIVE_DEV_STATUS_TIP_PROGRESS2"     : "Live Preview: Initializing\u2026",
-    "LIVE_DEV_STATUS_TIP_CONNECTED"     : "Disconnect Live Preview",
-    "LIVE_DEV_STATUS_TIP_OUT_OF_SYNC"   : "Live Preview (save file to refresh)",
-    "LIVE_DEV_STATUS_TIP_SYNC_ERROR"    : "Live Preview (not updating due to syntax error)",
+    "LIVE_DEV_STATUS_TIP_NOT_CONNECTED" : "Giao diện Trực tiếp",
+    "LIVE_DEV_STATUS_TIP_PROGRESS1"     : "Giao diện Trực tiếp: Đang kết nối\u2026",
+    "LIVE_DEV_STATUS_TIP_PROGRESS2"     : "Giao diện Trực tiếp: Khởi động\u2026",
+    "LIVE_DEV_STATUS_TIP_CONNECTED"     : "Hủy Giao diện Trực tiếp",
+    "LIVE_DEV_STATUS_TIP_OUT_OF_SYNC"   : "Giao diện Trực tiếp (lưu tập tin để khởi động lại)",
+    "LIVE_DEV_STATUS_TIP_SYNC_ERROR"    : "Giao diện Trực tiếp (không cập nhật do lỗi cú pháp)",
 
     "LIVE_DEV_DETACHED_REPLACED_WITH_DEVTOOLS" : "Live Preview was canceled because the browser's developer tools were opened",
     "LIVE_DEV_DETACHED_TARGET_CLOSED"          : "Live Preview was canceled because the page was closed in the browser",
