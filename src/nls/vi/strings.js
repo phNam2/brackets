@@ -99,8 +99,8 @@ define({
     "ERROR_IN_BROWSER"                  : "{APP_NAME} được viết bằng HTML, nhưng hiện tại vẫn là ứng dụng desktop để bạn có thể chỉnh sửa tập tin ở cục bộ. Xin hãy chạy {APP_NAME} bằng vỏ ứng dụng ở <b>github.com/adobe/brackets-shell</b>.",
 
     // ProjectManager max files error string
-    "ERROR_MAX_FILES_TITLE"             : "Error Indexing Files",
-    "ERROR_MAX_FILES"                   : "This project contains more than 30,000 files. Features that operate across multiple files may be disabled or behave as if the project is empty. <a href='https://github.com/adobe/brackets/wiki/Large-Projects'>Read more about working with large projects</a>.",
+    "ERROR_MAX_FILES_TITLE"             : "Lỗi quá tải",
+    "ERROR_MAX_FILES"                   : "Dự án này đã có hơn 30,000 tập tin. Nhiều chức năng có thể bị vô hiệu hóa hoặc hoạt động như Dự án trống. <a href='https://github.com/adobe/brackets/wiki/Large-Projects'>Đọc thêm ở đây để biết thêm về các Dự án lớn</a>.",
 
     // Live Preview error strings
     "ERROR_LAUNCHING_BROWSER_TITLE"     : "Error Launching Browser",
