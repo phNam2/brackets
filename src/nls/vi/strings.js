@@ -237,7 +237,7 @@ define({
     "ERROR_JSQUICKEDIT_FUNCTIONNOTFOUND"    : "Lỗi viết JS: đặt con trỏ vào tên function",
 
     // Quick Docs
-    "ERROR_QUICK_DOCS_PROVIDER_NOT_FOUND"   : "No Quick Docs available for current cursor position",
+    "ERROR_QUICK_DOCS_PROVIDER_NOT_FOUND"   : "Không có Tài liệu cho vị trí con trỏ hiện tại",
 
     /**
      * ProjectManager
