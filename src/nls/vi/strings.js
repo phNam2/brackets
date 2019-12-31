@@ -249,19 +249,19 @@ define({
     /**
      * MainViewManager
      */
-    "TOP"               : "Top",
-    "BOTTOM"            : "Bottom",
-    "LEFT"              : "Left",
-    "RIGHT"             : "Right",
+    "TOP"               : "Lên đỉnh",
+    "BOTTOM"            : "Xuống đáy",
+    "LEFT"              : "Trái",
+    "RIGHT"             : "Phỉa",
 
-    "CMD_SPLITVIEW_NONE"        : "No Split",
-    "CMD_SPLITVIEW_VERTICAL"    : "Vertical Split",
-    "CMD_SPLITVIEW_HORIZONTAL"  : "Horizontal Split",
-    "SPLITVIEW_MENU_TOOLTIP"    : "Split the editor vertically or horizontally",
-    "GEAR_MENU_TOOLTIP"         : "Configure Working Set",
+    "CMD_SPLITVIEW_NONE"        : "Không chia màn hình",
+    "CMD_SPLITVIEW_VERTICAL"    : "Chia màn hình theo chiều dọc",
+    "CMD_SPLITVIEW_HORIZONTAL"  : "Chia màn hình theo chiều ngang",
+    "SPLITVIEW_MENU_TOOLTIP"    : "Chia màn hình theo chiều ngang hoặc chiều dọc",
+    "GEAR_MENU_TOOLTIP"         : "Cài đặt máy tính",
 
-    "SPLITVIEW_INFO_TITLE"              : "Already Open",
-    "SPLITVIEW_MULTIPANE_WARNING"       : "The file is already open in another pane. {APP_NAME} will soon support opening the same file in more than one pane. Until then, the file will be shown in the pane it's already open in.<br /><br />(You'll only see this message once.)",
+    "SPLITVIEW_INFO_TITLE"              : "Đã mở",
+    "SPLITVIEW_MULTIPANE_WARNING"       : "Tập tin đã mở ở khung hiển thị kia. {APP_NAME} sẽ sớm hỗ trợ mở một tập tin trong nhiều khung. Nhưng hiện tại, tập tin sẽ chỉ được mở trong khung này.<br /><br />(Bạn sẽ chỉ thấy thông báo này một lần.)",
 
     /**
      * Keyboard modifiers and special key names
