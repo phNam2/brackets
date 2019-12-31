@@ -304,16 +304,16 @@ define({
     "STATUSBAR_ENCODING_TOOLTIP"            : "Chọn mã hóa",
 
     // CodeInspection: errors/warnings
-    "ERRORS_PANEL_TITLE_MULTIPLE"           : "{0} Problems",
-    "SINGLE_ERROR"                          : "1 {0} Problem",
-    "MULTIPLE_ERRORS"                       : "{1} {0} Problems",
-    "NO_ERRORS"                             : "No {0} problems found - good job!",
-    "NO_ERRORS_MULTIPLE_PROVIDER"           : "No problems found - good job!",
-    "LINT_DISABLED"                         : "Linting is disabled",
-    "NO_LINT_AVAILABLE"                     : "No linter available for {0}",
-    "NOTHING_TO_LINT"                       : "Nothing to lint",
-    "LINTER_TIMED_OUT"                      : "{0} has timed out after waiting for {1} ms",
-    "LINTER_FAILED"                         : "{0} terminated with error: {1}",
+    "ERRORS_PANEL_TITLE_MULTIPLE"           : "{0} Vấn đề",
+    "SINGLE_ERROR"                          : "1 {0} Vấn đề",
+    "MULTIPLE_ERRORS"                       : "{1} {0} Những vấn đề",
+    "NO_ERRORS"                             : "Không {0} có vấn đề nào - chúc mừng!",
+    "NO_ERRORS_MULTIPLE_PROVIDER"           : "Không tìm thấy vấn đề nào - chúc mừng!",
+    "LINT_DISABLED"                         : "Ngưng Linting (Thuật ngữ Linux)",
+    "NO_LINT_AVAILABLE"                     : "Không có linter (Thuật ngữ Linux) cho {0}",
+    "NOTHING_TO_LINT"                       : "Không có gì để lint (Thuật ngữ Linux)",
+    "LINTER_TIMED_OUT"                      : "{0} đã chạy quá lâu khi chờ {1} ms",
+    "LINTER_FAILED"                         : "{0} bị hủy vì lỗi: {1}",
 
     /**
      * Command Name Constants
