@@ -242,9 +242,9 @@ define({
     /**
      * ProjectManager
      */
-    "PROJECT_LOADING"   : "Loading\u2026",
-    "UNTITLED"          : "Untitled",
-    "WORKING_FILES"     : "Working Files",
+    "PROJECT_LOADING"   : "Đang tải\u2026",
+    "UNTITLED"          : "Không tên",
+    "WORKING_FILES"     : "Tập tin đang hiển thị",
 
     /**
      * MainViewManager
