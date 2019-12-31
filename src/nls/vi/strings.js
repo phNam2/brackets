@@ -268,7 +268,7 @@ define({
      */
     "KEYBOARD_CTRL"         : "Ctrl",
     "KEYBOARD_SHIFT"        : "Shift",
-    "KEYBOARD_SPACE"        : "Space",
+    "KEYBOARD_SPACE"        : "Phím cách",
     "KEYBOARD_PAGE_UP"      : "Page Up",
     "KEYBOARD_PAGE_DOWN"    : "Page Down",
     "KEYBOARD_HOME"         : "Home",
