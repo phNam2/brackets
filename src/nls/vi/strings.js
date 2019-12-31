@@ -228,13 +228,13 @@ define({
     "FILTER_FILE_COUNT_ALL"             : "Cho phép tất cả {0} tập tin {1}",
 
     // Quick Edit
-    "ERROR_QUICK_EDIT_PROVIDER_NOT_FOUND"   : "No Quick Edit available for current cursor position",
-    "ERROR_CSSQUICKEDIT_BETWEENCLASSES"     : "CSS Quick Edit: place cursor on a single class name",
-    "ERROR_CSSQUICKEDIT_CLASSNOTFOUND"      : "CSS Quick Edit: incomplete class attribute",
-    "ERROR_CSSQUICKEDIT_IDNOTFOUND"         : "CSS Quick Edit: incomplete id attribute",
-    "ERROR_CSSQUICKEDIT_UNSUPPORTEDATTR"    : "CSS Quick Edit: place cursor in tag, class, or id",
-    "ERROR_TIMINGQUICKEDIT_INVALIDSYNTAX"   : "CSS Timing Function Quick Edit: invalid syntax",
-    "ERROR_JSQUICKEDIT_FUNCTIONNOTFOUND"    : "JS Quick Edit: place cursor in function name",
+    "ERROR_QUICK_EDIT_PROVIDER_NOT_FOUND"   : "Lựa chọn Sửa đổi không tồn tại cho vị trí con trỏ hiện tại",
+    "ERROR_CSSQUICKEDIT_BETWEENCLASSES"     : "Lỗi viết CSS: đặt con trỏ vào tên class",
+    "ERROR_CSSQUICKEDIT_CLASSNOTFOUND"      : "Lỗi viết CSS: không tìm thấy class",
+    "ERROR_CSSQUICKEDIT_IDNOTFOUND"         : "Lỗi viết CSS: không tìm thấy id",
+    "ERROR_CSSQUICKEDIT_UNSUPPORTEDATTR"    : "Lỗi viết CSS: hãy đựt con trot vào tag, class, hoặc id",
+    "ERROR_TIMINGQUICKEDIT_INVALIDSYNTAX"   : "Lỗi thời gian viết CSS: cú pháp không hợp lệ",
+    "ERROR_JSQUICKEDIT_FUNCTIONNOTFOUND"    : "Lỗi viết JS: đặt con trỏ vào tên function",
 
     // Quick Docs
     "ERROR_QUICK_DOCS_PROVIDER_NOT_FOUND"   : "No Quick Docs available for current cursor position",
@@ -496,7 +496,7 @@ define({
     "FONT_FAMILY"                          : "Font Family",
     "THEMES_SETTINGS"                      : "Themes Settings",
 
-    // CSS Quick Edit
+    // Lỗi viết CSS
     "BUTTON_NEW_RULE"                      : "New Rule",
 
     // Extension Management strings
