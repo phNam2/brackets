@@ -486,18 +486,18 @@ define({
     "BASEURL_ERROR_UNKNOWN_ERROR"          : "Lỗi không xác định khi xử lý URL",
 
     // Strings for Pane.js
-    "EMPTY_VIEW_HEADER"                    : "<em>Open a file while this pane has focus</em>",
-    "FLIPVIEW_BTN_TOOLTIP"                 : "Flip this view to {0} pane",
+    "EMPTY_VIEW_HEADER"                    : "<em>Mở tập tin khi khung hình còn trống</em>",
+    "FLIPVIEW_BTN_TOOLTIP"                 : "Chuyển giao diện sang khung {0}",
 
     // Strings for themes-settings.html and themes-general.html
-    "CURRENT_THEME"                        : "Current Theme",
-    "USE_THEME_SCROLLBARS"                 : "Use Theme Scrollbars",
-    "FONT_SIZE"                            : "Font Size",
-    "FONT_FAMILY"                          : "Font Family",
-    "THEMES_SETTINGS"                      : "Themes Settings",
+    "CURRENT_THEME"                        : "Cài đặt hiện tại",
+    "USE_THEME_SCROLLBARS"                 : "Dùng Thanh công cụ cho Cài đặt",
+    "FONT_SIZE"                            : "Cỡ chữ",
+    "FONT_FAMILY"                          : "Kiểm chữ",
+    "THEMES_SETTINGS"                      : "Cài đặt",
 
     // Lỗi viết CSS
-    "BUTTON_NEW_RULE"                      : "New Rule",
+    "BUTTON_NEW_RULE"                      : "Tạo Luật",
 
     // Extension Management strings
     "INSTALL"                              : "Install",
