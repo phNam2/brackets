@@ -666,14 +666,14 @@ define({
     "INLINE_TIMING_EDITOR_INVALID"              : "Giá trị cũ <code>{0}</code> không hợp lệ, thế nên công thức được chuyển sang <code>{1}</code>. Tài liệu sẽ được cập nhật sau chỉnh sửa đầu tiên.",
 
     // extensions/default/InlineColorEditor
-    "COLOR_EDITOR_CURRENT_COLOR_SWATCH_TIP"     : "Current Color",
-    "COLOR_EDITOR_ORIGINAL_COLOR_SWATCH_TIP"    : "Original Color",
-    "COLOR_EDITOR_RGBA_BUTTON_TIP"              : "RGBa Format",
-    "COLOR_EDITOR_HEX_BUTTON_TIP"               : "Hex Format",
-    "COLOR_EDITOR_HSLA_BUTTON_TIP"              : "HSLa Format",
-    "COLOR_EDITOR_0X_BUTTON_TIP"                : "Hex (0x) Format",
-    "COLOR_EDITOR_USED_COLOR_TIP_SINGULAR"      : "{0} (Used {1} time)",
-    "COLOR_EDITOR_USED_COLOR_TIP_PLURAL"        : "{0} (Used {1} times)",
+    "COLOR_EDITOR_CURRENT_COLOR_SWATCH_TIP"     : "Màu hiện tại",
+    "COLOR_EDITOR_ORIGINAL_COLOR_SWATCH_TIP"    : "Màu ban đầu",
+    "COLOR_EDITOR_RGBA_BUTTON_TIP"              : "Mẫu RGBa",
+    "COLOR_EDITOR_HEX_BUTTON_TIP"               : "Mẫu Hex",
+    "COLOR_EDITOR_HSLA_BUTTON_TIP"              : "Mẫu HSLa",
+    "COLOR_EDITOR_0X_BUTTON_TIP"                : "Mẫu Hex (0x)",
+    "COLOR_EDITOR_USED_COLOR_TIP_SINGULAR"      : "{0} (Dùng {1} lần)",
+    "COLOR_EDITOR_USED_COLOR_TIP_PLURAL"        : "{0} (Dùng {1} lần)",
 
     // extensions/default/JavaScriptCodeHints
     "CMD_JUMPTO_DEFINITION"                     : "Jump to Definition",
