@@ -676,11 +676,11 @@ define({
     "COLOR_EDITOR_USED_COLOR_TIP_PLURAL"        : "{0} (Dùng {1} lần)",
 
     // extensions/default/JavaScriptCodeHints
-    "CMD_JUMPTO_DEFINITION"                     : "Jump to Definition",
-    "CMD_SHOW_PARAMETER_HINT"                   : "Show Parameter Hint",
-    "NO_ARGUMENTS"                              : "<no parameters>",
-    "DETECTED_EXCLUSION_TITLE"                  : "JavaScript File Inference Problem",
-    "DETECTED_EXCLUSION_INFO"                   : "{APP_NAME} ran into trouble processing <span class='dialog-filename'>{0}</span>.<br><br>This file will no longer be processed for code hints, Jump to Definition or Quick Edit. To re-enable this file, open <code>.brackets.json</code> in your project and edit <code>jscodehints.detectedExclusions</code>.<br><br>This is likely a {APP_NAME} bug. If you can provide a copy of this file, please <a href='https://github.com/adobe/brackets/wiki/How-to-Report-an-Issue'>file a bug</a> with a link to the file named here.",
+    "CMD_JUMPTO_DEFINITION"                     : "Đến Định nghĩa",
+    "CMD_SHOW_PARAMETER_HINT"                   : "Mở gợi ý",
+    "NO_ARGUMENTS"                              : "<không có thông số>",
+    "DETECTED_EXCLUSION_TITLE"                  : "Tệp JavaScript File có Vấn đề Suy luận",
+    "DETECTED_EXCLUSION_INFO"                   : "{APP_NAME} gặp vấn đề khi chạy <span class='dialog-filename'>{0}</span>.<br><br>Tệp này không còn mở Gợi ý, Đến Định nghĩa hoặc Chỉnh sửa. Mở <code>.brackets.json</code> trong dự án và chỉnh sửa <code>jscodehints.detectedExclusions</code> để mở lại chức năng.<br><br>Đây có thể là do {APP_NAME} bug. Nếu có bản copy của tập tin này, xin hãy <a href='https://github.com/adobe/brackets/wiki/How-to-Report-an-Issue'>tìm bug</a> với đường link đến tên tập tin này.",
 
     // extensions/default/JavascriptRefactoring
     "CMD_REFACTOR"                              : "Refactor",
