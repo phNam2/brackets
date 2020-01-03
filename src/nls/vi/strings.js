@@ -659,11 +659,11 @@ define({
     "HEALTH_DATA_PREVIEW_INTRO"                 : "<p>Để cải thiện {APP_NAME}, chúng tôi luôn gửi số liệu thông kê, <strong>ẩn</strong> đến Adobe về cách dùng {APP_NAME}. Thông tin này giúp nâng cấp chi tiết, tìm bug, và phát hiện lỗi sử dụng. <a href='https://github.com/adobe/brackets/wiki/Project-Health-Data'>Tìm hiểu thêm về {APP_NAME} Báo cáo tình trạng</a> và cách đóng góp cho cộng đồng {APP_NAME} khi thông tin của bạn được an toàn.</p><p>Phía dưới là các số liệu sẽ được gửi cho Báo cáo tiếp theo <em>nếu</em> được bật.</p>",
 
     // extensions/default/InlineTimingFunctionEditor
-    "INLINE_TIMING_EDITOR_TIME"                 : "Time",
-    "INLINE_TIMING_EDITOR_PROGRESSION"          : "Progression",
-    "BEZIER_EDITOR_INFO"                        : "<kbd>↑</kbd><kbd>↓</kbd><kbd>←</kbd><kbd>→</kbd> Move selected point<br><kbd class='text'>Shift</kbd> Move by ten units<br><kbd class='text'>Tab</kbd> Switch points",
-    "STEPS_EDITOR_INFO"                         : "<kbd>↑</kbd><kbd>↓</kbd> Increase or decrease steps<br><kbd>←</kbd><kbd>→</kbd> 'Start' or 'End'",
-    "INLINE_TIMING_EDITOR_INVALID"              : "The old value <code>{0}</code> is not valid, so the displayed function was changed to <code>{1}</code>. The document will be updated with the first edit.",
+    "INLINE_TIMING_EDITOR_TIME"                 : "Thời gian",
+    "INLINE_TIMING_EDITOR_PROGRESSION"          : "Tiến độ",
+    "BEZIER_EDITOR_INFO"                        : "<kbd>↑</kbd><kbd>↓</kbd><kbd>←</kbd><kbd>→</kbd> Cách di chuyển<br><kbd class='text'>Shift</kbd> Di chuyển 10 cách<br><kbd class='text'>Tab</kbd> Tráo",
+    "STEPS_EDITOR_INFO"                         : "<kbd>↑</kbd><kbd>↓</kbd> Tăng hoặc giảm bước<br><kbd>←</kbd><kbd>→</kbd> 'Start' hoặc 'End'",
+    "INLINE_TIMING_EDITOR_INVALID"              : "Giá trị cũ <code>{0}</code> không hợp lệ, thế nên công thức được chuyển sang <code>{1}</code>. Tài liệu sẽ được cập nhật sau chỉnh sửa đầu tiên.",
 
     // extensions/default/InlineColorEditor
     "COLOR_EDITOR_CURRENT_COLOR_SWATCH_TIP"     : "Current Color",
