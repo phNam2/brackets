@@ -711,24 +711,24 @@ define({
     "JSLINT_NAME"                               : "JSLint",
 
     // extensions/default/QuickView
-    "CMD_ENABLE_QUICK_VIEW"                     : "Quick View on Hover",
+    "CMD_ENABLE_QUICK_VIEW"                     : "Xem qua",
 
     // extensions/default/RecentProjects
-    "CMD_TOGGLE_RECENT_PROJECTS"                : "Recent Projects",
+    "CMD_TOGGLE_RECENT_PROJECTS"                : "Dự án gần đây",
 
     // extensions/default/MDNDocs
-    "DOCS_MORE_LINK"                            : "Read more",
+    "DOCS_MORE_LINK"                            : "Đọc thêm",
 
     // extensions/default/CodeFolding
-    "COLLAPSE_ALL"                  : "Collapse All",
-    "EXPAND_ALL"                    : "Expand All",
-    "COLLAPSE_CURRENT"              : "Collapse Current",
-    "EXPAND_CURRENT"                : "Expand Current",
+    "COLLAPSE_ALL"                  : "Đóng tất",
+    "EXPAND_ALL"                    : "Mở tất",
+    "COLLAPSE_CURRENT"              : "Đóng",
+    "EXPAND_CURRENT"                : "Mở",
 
     // extensions/default/NavigationAndHistory
-    "RECENT_FILES_DLG_HEADER"                    : "Recent Files",
-    "RECENT_FILES_DLG_CLEAR_BUTTON_LABEL"        : "Clear",
-    "RECENT_FILES_DLG_CLEAR_BUTTON_TITLE"        : "Clear files not in Working Set",
+    "RECENT_FILES_DLG_HEADER"                    : "Tập tin gần đây",
+    "RECENT_FILES_DLG_CLEAR_BUTTON_LABEL"        : "Xóa",
+    "RECENT_FILES_DLG_CLEAR_BUTTON_TITLE"        : "Xóa những tập tin không hoạt động ",
 
     // Descriptions of core preferences
     "DESCRIPTION_CLOSE_BRACKETS"                     : "true to automatically close braces, brackets and parentheses",
