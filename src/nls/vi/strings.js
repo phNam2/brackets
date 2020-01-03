@@ -651,12 +651,12 @@ define({
     "LANGUAGE_SYSTEM_DEFAULT"                   : "Mặc định",
 
     // extensions/default/HealthData
-    "HEALTH_DATA_NOTIFICATION"                  : "Health Report Preferences",
-    "HEALTH_FIRST_POPUP_TITLE"                  : "{APP_NAME} Health Report",
-    "HEALTH_DATA_DO_TRACK"                      : "Share pseudonymous information on how I use {APP_NAME}",
-    "HEALTH_DATA_NOTIFICATION_MESSAGE"          : "In order to improve {APP_NAME}, we periodically send limited, <strong>pseudonymous</strong> statistics to Adobe about how you use {APP_NAME}. This information helps prioritize features, find bugs, and spot usability issues.<br><br>You can see your data or choose not to share data by selecting <strong>Help > Health Report</strong>.<br><br><a href='https://github.com/adobe/brackets/wiki/Project-Health-Data'>Learn more about {APP_NAME} Health Report</a>",
-    "HEALTH_DATA_PREVIEW"                       : "{APP_NAME} Health Report",
-    "HEALTH_DATA_PREVIEW_INTRO"                 : "<p>In order to improve {APP_NAME}, we periodically send limited, <strong>pseudonymous</strong> statistics to Adobe about how you use {APP_NAME}. This information helps prioritize features, find bugs, and spot usability issues. <a href='https://github.com/adobe/brackets/wiki/Project-Health-Data'>Learn more about {APP_NAME} Health Report</a> and how it benefits the {APP_NAME} community while protecting your privacy.</p><p>Below is a preview of the data that will be sent in your next Health Report <em>if</em> it is enabled.</p>",
+    "HEALTH_DATA_NOTIFICATION"                  : "Cài đặt báo cáo Sức khỏe",
+    "HEALTH_FIRST_POPUP_TITLE"                  : "Báo cáo {APP_NAME}",
+    "HEALTH_DATA_DO_TRACK"                      : "Chia sẻ thông tin ẩn danh về cách dùng {APP_NAME}",
+    "HEALTH_DATA_NOTIFICATION_MESSAGE"          : "Để cải thiện {APP_NAME}, chúng tôi luôn gửi số liệu thông kê, <strong>ẩn</strong> đến Adobe về cách dùng {APP_NAME}. Thông tin này giúp nâng cấp chi tiết, tìm bug, và phát hiện lỗi sử dụng.<br><br>Bạn có thể xem dữ liệu hoặc chọn chia sẻ thông tin bằng cách chọn <strong>Trợ giúp > Báo cáo tình trạng</strong>.<br><br><a href='https://github.com/adobe/brackets/wiki/Project-Health-Data'>Learn more about {APP_NAME} Health Report</a>",
+    "HEALTH_DATA_PREVIEW"                       : "Báo cáo về {APP_NAME}",
+    "HEALTH_DATA_PREVIEW_INTRO"                 : "<p>Để cải thiện {APP_NAME}, chúng tôi luôn gửi số liệu thông kê, <strong>ẩn</strong> đến Adobe về cách dùng {APP_NAME}. Thông tin này giúp nâng cấp chi tiết, tìm bug, và phát hiện lỗi sử dụng. <a href='https://github.com/adobe/brackets/wiki/Project-Health-Data'>Tìm hiểu thêm về {APP_NAME} Báo cáo tình trạng</a> và cách đóng góp cho cộng đồng {APP_NAME} khi thông tin của bạn được an toàn.</p><p>Phía dưới là các số liệu sẽ được gửi cho Báo cáo tiếp theo <em>nếu</em> được bật.</p>",
 
     // extensions/default/InlineTimingFunctionEditor
     "INLINE_TIMING_EDITOR_TIME"                 : "Time",
