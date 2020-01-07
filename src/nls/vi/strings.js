@@ -891,19 +891,19 @@ define({
     "OPEN_PREFERENNCES"                              : "Mở Cài đặt",
 
     //Strings for LanguageTools Preferences
-    "LANGUAGE_TOOLS_PREFERENCES"                     : "Preferences for Language Tools",
+    "LANGUAGE_TOOLS_PREFERENCES"                     : "Ngôn ngữ lập trình ưa thích",
 
-    "FIND_ALL_REFERENCES"                            : "Find All References",
-    "REFERENCES_IN_FILES"                            : "references",
-    "REFERENCE_IN_FILES"                             : "reference",
-    "REFERENCES_NO_RESULTS"                          : "No References available for current cursor position",
+    "FIND_ALL_REFERENCES"                            : "Tìm tất cả các tài liệu tham khảo",
+    "REFERENCES_IN_FILES"                            : "Các Tập tài liệu",
+    "REFERENCE_IN_FILES"                             : "Tập tài liệu",
+    "REFERENCES_NO_RESULTS"                          : "Không có tài liệu tham khảo cho vị trí con trỏ hiện giờ",
 
-    "CMD_FIND_DOCUMENT_SYMBOLS"                      : "Find Document Symbols",
-    "CMD_FIND_PROJECT_SYMBOLS"                       : "Find Project Symbols",
+    "CMD_FIND_DOCUMENT_SYMBOLS"                      : "Tìm biểu thị của Văn bản",
+    "CMD_FIND_PROJECT_SYMBOLS"                       : "Tìm biểu thị của Dự án",
 
    // Remote debugging enabled
-    "REMOTE_DEBUGGING_ENABLED"                       : "Remote debugging enabled on localhost:",
+    "REMOTE_DEBUGGING_ENABLED"                       : "Debugging từ xa ở localhost:",
 
    // Remote debugging port argument is invalid
-    "REMOTE_DEBUGGING_PORT_INVALID"                  : "Cannot enable remote debugging on port {0}. Port numbers should be between {1} and {2}."
+    "REMOTE_DEBUGGING_PORT_INVALID"                  : "Không thể mở Debugging từ xa ở cổng {0}. Số thứ tự của cổng nên từ {1} đến {2}."
 });
