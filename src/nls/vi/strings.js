@@ -881,14 +881,14 @@ define({
     "CMD_FIND_RELATED_FILES"                         : "Tìm tệp liên quan",
 
     ///String for Php Tooling Extensions
-    "PHP_VERSION_INVALID"                            : "Lỗi parsing PHP version. Please check the output of the “php –version” command.",
-    "PHP_UNSUPPORTED_VERSION"                        : "Install PHP7 runtime for enabling PHP-related tooling such as Code Hints, Parameter Hints, Jump To Definition and more. Version found: {0}",
-    "PHP_EXECUTABLE_NOT_FOUND"                       : "PHP runtime not found. Install the PHP7 runtime and update “executablePath” in PHP Preferences appropriately. This enables PHP-related tooling such as Code Hints, Parameter Hints, Jump To Definition and more.",
-    "PHP_PROCESS_SPAWN_ERROR"                        : "Error code {0} encountered while starting the PHP process.",
-    "PHP_SERVER_ERROR_TITLE"                         : "Error",
-    "PHP_SERVER_MEMORY_LIMIT_INVALID"                : "The memory limit you provided is invalid. Review the PHP preferences to set the correct value.",
-    "DESCRIPTION_PHP_TOOLING_CONFIGURATION"          : "PHP Tooling default configuration settings",
-    "OPEN_PREFERENNCES"                              : "Open Preferences",
+    "PHP_VERSION_INVALID"                            : "Lỗi phân tích phiên bản PHP. Xin hãy kiểm tra đầu ra của lệnh “php –version”.",
+    "PHP_UNSUPPORTED_VERSION"                        : "Tải PHP7 runtime để bật chức năng như Gợi ý Mã, Gợi ý Tham số, Đến Định nghĩa và nhiều hơn nữa. Phiên bản: {0}",
+    "PHP_EXECUTABLE_NOT_FOUND"                       : "Không tìm thấy thời gian chạy PHP. Tải PHP7 runtime and cập nhật “executablePath” ở PHP Preferences. Điều này sẽ giúp bật chức năng như Gợi ý Mã, Gợi ý Tham số, Đến Định nghĩa và nhiều hơn nữa",
+    "PHP_PROCESS_SPAWN_ERROR"                        : "Lỗi {0} khi bắt đầu chạy PHP.",
+    "PHP_SERVER_ERROR_TITLE"                         : "Lỗi",
+    "PHP_SERVER_MEMORY_LIMIT_INVALID"                : "Giới hạn bộ ghi nhớ bạn đưa ra không phù hợp. Đọc PHP preferences để đua ra giá trị đúng.",
+    "DESCRIPTION_PHP_TOOLING_CONFIGURATION"          : "Cài đặt PHP Tooling mặc định",
+    "OPEN_PREFERENNCES"                              : "Mở Cài đặt",
 
     //Strings for LanguageTools Preferences
     "LANGUAGE_TOOLS_PREFERENCES"                     : "Preferences for Language Tools",
